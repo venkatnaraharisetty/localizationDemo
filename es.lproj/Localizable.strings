@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  localizationDemo
+
+  Created by Naraharisetty, Venkata (Chicago) on 3/31/20.
+  Copyright © 2020 Naraharisetty, Venkata (Chicago). All rights reserved.
+*/
+
+"LoginScreen.title.text" = "Demo de localización";
+"LoginScreen.description.text" = "Por favor inicie sesión para continuar";
+"LoginScreen.username.placeholder.text" = "Nombre de usuario";
+"LoginScreen.password.placeholder.text" = "contraseña";
+"LoginScreen.loginButton.title" = "Iniciar sesión";

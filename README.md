@@ -10,5 +10,6 @@ Internationalization needs to come one step ahead of the mobile app localization
 ## Internationalization
 Internationalization is the process of customizing your code so that it’s ready for localization and able to be modified and released in multiple languages
 
-![](images\english.png)
-![](images\spanish.png)
+<img src="images/english.png">
+<img src="images/spanish.png">
+
